@@ -1,6 +1,6 @@
 # ColorPlus
 
-Color Plus is a cooperative two-player action puzzle game, playable in a web browser. One player uses the keyboard, and the other uses the mouse. Use this link to play: https://shelleyj32.github.io/ColorPlus/.
+Color Plus is a cooperative two-player action puzzle game, playable in a web browser. One player uses the keyboard, and the other uses the mouse. Use this link to play: https://shelleyj32.github.io/ColorPlusWebGL/.
 
 - Keyboard Player: 
   You press 1, 2, 3, 4, or 5 and the next cube will appear in the 1st, 2nd, 3rd, 4th, or 5th row, BUT in random column.
